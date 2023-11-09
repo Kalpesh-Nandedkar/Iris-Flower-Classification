@@ -5,11 +5,8 @@ The problem is comprised of 150 observations of iris flowers from three differen
 Classification is done on features:
 
 sepal length
-
 sepal width
-
 petal length
-
 petal width (all in the same unit of centimeters).
 
 The predicted attribute is the species, which is one of Iris-setosa, Iris-versicolor or Iris-virginica.
